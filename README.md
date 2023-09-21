@@ -1,4 +1,4 @@
-# IROS2023 ----Paper List
+# IROS2023 Paper List
 This repo contains a list of all the papers being presented at IROS2023. Along with the session in which the paper is being presented. A CSV file with abstracts is also available.
 
 There is also a google sheets version with abstracts [here](https://docs.google.com/spreadsheets/d/1cdca2J4g2gmHym1J0nXxJabhsxK7xIfXxicB8Le6AwU/edit?usp=sharing)
