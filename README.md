@@ -4,6 +4,52 @@ This repo contains a list of all the papers being presented at IROS2023. Along w
 There is also a google sheets version with abstracts [here](https://docs.google.com/spreadsheets/d/1cdca2J4g2gmHym1J0nXxJabhsxK7xIfXxicB8Le6AwU/edit?usp=sharing)
 
 Note: This list is likely not a perfect list there might be papers missed or duplicated. 
+## Conference Statisitcs
+The following table shows the number of papers using a specific keyword.
+| Keywords | Count |
+|---|---|
+| Control | 364 |
+| Planning | 319 |
+| Motion and Path Planning | 139 |
+| Reinforcement Learning | 130 |
+| Grasping | 117 |
+| Deep Learning Methods | 102 |
+| Deep Learning for Visual Perception | 97 |
+| SLAM | 96 |
+| Multi-Robot Systems | 93 |
+| Localization | 90 |
+| Optimization and Optimal Control | 88 |
+| Autonomous Vehicle Navigation | 81 |
+| Machine Learning for Robot Control | 71 |
+
+The following table shows the top organisations based on the number of authors affiliated with them.
+| Organisations | Count |
+|---|---|
+| Carnegie Mellon University | 62 |
+| University of Michigan | 58 |
+| University of Hong Kong | 50 |
+| University of California | 49 |
+| MIT | 90 |
+| Technical University of Munich | 46 |
+| Zhejiang University | 39 |
+| Georgia Institute of Technology | 36 |
+| Intel | 35 |
+| ETH Zurich | 33 |
+
+The top authors by number of publications at IROS 2023.
+| Author | Count |
+|---|---|
+| Rus, Daniela, MIT | 12 |
+| Gao, Fei, Zhejiang University | 12 |
+| Choset, Howie, Carnegie Mellon University | 10 |
+| Okada, Kei, The University of Tokyo | 10 |
+| Xu, Chao, Zhejiang University | 10 |
+| Haddadin, Sami, Technical University of Munich | 10 |
+| Inaba, Masayuki, The University of Tokyo | 10 |
+| Liarokapis, Minas, The University of Auckland | 7 |
+| Ozkan-Aydin, Yasemin, University of Notre Dame | 7 |
+| Scherer, Sebastian, Carnegie Mellon University | 7 |
+| Stachniss, Cyrill, University of Bonn | 7 |
 
 # Paper List
 |Title|Authors|
